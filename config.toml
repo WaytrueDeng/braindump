@@ -16,7 +16,7 @@ logoUrl = '/favicon.svg'
 
 [params.styles]
    color = "#fff"
-   backgroundColor = "#000"
+   backgroundColor = "#073642"
    lineHeight = "1.6"
    fontFamily = "Arial, sans-serif"
 
@@ -25,7 +25,7 @@ logoUrl = '/favicon.svg'
    headerColor = "#fafafa"
   
    pageBackgroundColor = "#002b36"
-   pageBorderLeftColor = "#000000"
+   pageBorderLeftColor = "#10B981"
    pageLinkColor = "#10B981"
    pageMaxWidth = "625px"
    pageFontSize = "16px"

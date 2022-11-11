@@ -7,3 +7,6 @@ title:  SGLT2抑制剂的作用机制
 
 ### Mnmonic
 ![SGLT2抑制剂的相关考点.png](/note-images/SGLT2抑制剂的相关考点.png)
+
+### References
+- [慢性心衰治疗的四架马车](/慢性心衰治疗的四架马车)
