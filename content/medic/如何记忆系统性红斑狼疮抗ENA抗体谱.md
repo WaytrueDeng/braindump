@@ -1,5 +1,5 @@
 ---
-title:  如何记忆系统性红斑狼疮抗ENA抗体
+title:  如何记忆系统性红斑狼疮抗ENA抗体谱
 --- 
 
 ### Contents

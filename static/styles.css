@@ -1,5 +1,10 @@
+
+h1 {
+color:#B16286;
+}
+
 h2{
-color: white;
+color: #689d6a;
 background-color: #073642;
 position: sticky;
 top: 0;
@@ -14,6 +19,10 @@ background-color: orange;
 
 }
 
+mark>a {
+color:white;
+
+}
 /* width */
 ::-webkit-scrollbar {
   width: 10px;
@@ -26,7 +35,7 @@ background-color: orange;
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: #10B981;
 }
 
 /* Handle on hover */
