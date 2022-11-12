@@ -7,3 +7,5 @@ title:  DKA竟然在何时还需要补充葡萄糖
 ### Mnmonic
 - 低血糖是可能死人的
  
+### References
+- DKA与HHS补液时何时选择加入胰岛素与葡萄糖
