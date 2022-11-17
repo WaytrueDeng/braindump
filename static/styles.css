@@ -1,3 +1,9 @@
+li,p {
+  color: #eee8d5;
+
+
+}
+
 
 h1 {
 color:#B16286;
@@ -58,3 +64,18 @@ table {
     white-space: nowrap;
     width: 100%;
 }
+
+.answer {
+         color: #FFD700;
+         background-color: #FFD700;
+         filter: blur(20px);
+        -webkit-filter: blur(20px);
+        /*transition: 0.5s;*/
+}
+.answer:hover {
+         /*color:green;*/
+         background-color: #000000;
+         filter: blur(0px);
+        -webkit-filter: blur(0px);
+}
+
