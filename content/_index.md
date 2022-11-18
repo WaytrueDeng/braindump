@@ -4,7 +4,7 @@ type = "index"
 +++
 
 # Diary
-- [Diary](/diary/diary)
+- [Diary](/diary)
 # English World
 - [英语作文模板](/英语作文模板)
 - [考研英语真题](/考研英语真题)

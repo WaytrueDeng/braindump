@@ -79,3 +79,32 @@ table {
         -webkit-filter: blur(0px);
 }
 
+.bred {
+  background-color: red;
+  color:#FFFFFF;
+
+}
+
+.born {
+  background-color: orange;
+  color:#FFFFFF;
+
+}
+
+
+.bgrn {
+  background-color: green;
+  color:#FFFFFF;
+
+}
+
+.bpup {
+	background-color:#4B0082;
+      color:#FFFFFF;
+
+}
+.bpnk {
+	background-color:#FF00FF;
+      color:#FFFFFF;
+
+}
