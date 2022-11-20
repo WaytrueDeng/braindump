@@ -1,0 +1,13 @@
+{{ define "title" -}}
+{{ .Title }}
+{{- end }}
+
+{{ define "main" -}}
+{{ .Content }}
+{{- end }}
+
+{{ define "head" -}}
+    {{ if (.Params.mermaid) }}
+    {{ partial "mermaid.html" }}
+    {{ end }}
+{{- end }}
