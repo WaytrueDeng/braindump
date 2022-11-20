@@ -1,0 +1,50 @@
+languageCode = 'zh-cn'
+title ="Waytrue's Braindump"
+theme = "lugo"
+disablePathToLower = true
+[markup.goldmark.renderer]
+hardWraps = true
+unsafe = true
+[markup.goldmark.extensions]
+footnote = true
+[permalinks]
+medic = '/:filename/'
+english = '/:filename/'
+
+[params]
+logoUrl = '/favicon.svg'
+
+[params.styles]
+   color = "#fff"
+   backgroundColor = "#073642"
+   lineHeight = "1.6"
+   fontFamily = "Arial, sans-serif"
+
+   headerBackgroundColor = "#002b36"
+   headerBorderBottomColor = "#666"
+   headerColor = "#fafafa"
+  
+   pageBackgroundColor = "#002b36"
+   pageBorderLeftColor = "#10B981"
+   pageLinkColor = "#10B981"
+   pageMaxWidth = "625px"
+   pageFontSize = "16px"
+   pageLineHeight = "22px"
+   pageHrBackgroundColor = "#666"
+
+   backlinksBackgroundColor = "#073642"
+   backlinksBorderRadius = "3px"
+   backlinkLabelColor = "#aaa"
+   backlinkTitleColor = "#ccc"
+   backlinkPreviewColor = "#eee"
+   backlinkHoverBackgroundColor = "#444"
+  
+   previewWidth = "500px"
+   previewMaxHeight = "350px"
+   previewScale = "0.7"
+   previewBoxShadowTopColor = "rgba(255, 255, 255, 0.08)"
+   previewBoxShadowRightColor = "rgba(255, 255, 255, 0.04)"
+   previewBoxShadowBottomColor = "rgba(255, 255, 255, 0.15)"
+   previewBoxShadowLeftColor = "rgba(255, 255, 255, 0.04)"
+  
+   searchExtractColor = "#666"

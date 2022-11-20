@@ -1,28 +1,61 @@
-li,p {
-  color: #eee8d5;
+body {
+background-color: #002b36;
+}
 
+main {
+  max-width:960px;
+  margin:auto;
 
 }
 
+header
+{
+ text-align:center;
+}
+img{
+ max-width:500px;
+
+}
+
+li,p {
+  color: #eee8d5;
+}
+
+a {
+color: #859900;
+}
+
+a:visited{
+color: #93a1a1;
+}
 
 h1 {
-color:#B16286;
+color: #dc322f;
 }
 
 h2{
-color: #689d6a;
+color: #cb4b16;
 background-color: #073642;
 position: sticky;
 top: 0;
 }
 
+h3 {
+color:#b58900;
+
+}
+
 h4 {
+  color:#268bd2;
+}
+
+h5  {
+color: #859900;
 }
 
 mark {
 color: white;
 background-color: orange;
-
 }
 
 mark>a {
@@ -53,6 +86,9 @@ tr:nth-child(even) {
   background-color: #073642;
 }
 
+th {
+  color: #268bd2;
+}
 table, th, td {
   border: 1px solid;
   border-collapse: collapse;

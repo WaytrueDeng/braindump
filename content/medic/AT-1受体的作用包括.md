@@ -15,3 +15,4 @@ title:  AT-1受体的作用包括
     - 促进ADH的分泌
     - 缩宫素的分泌
   - 对心脏的作用:促进重构
+<object type="image/svg+xml" style="width:100%;" data="/note-images/如何记忆AT1受体的作用.svg"></object>
