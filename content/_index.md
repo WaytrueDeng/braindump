@@ -24,7 +24,11 @@ mermaid: true
 # Medic Things
 <div class="mermaid">
 graph TD
-西综 ---> B[生理学]
+A[西综] ---> B[生理学]
 B ---> C[细胞信号转导]
+A ---> D[天天师兄刷题班]
+A ---> E[押题]
 click C href "/细胞信号转导"
+click D href "/天天师兄刷题班"
+click E "/押题"
 </div>
